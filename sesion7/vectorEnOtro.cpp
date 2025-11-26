@@ -37,7 +37,7 @@ else
 #include <iostream>
 using namespace std;
 
-int main() 
+int main()  
 {
     const int MAX = 1000;
     int v1[MAX], v2[MAX], util_v1, util_v2, i, j;
