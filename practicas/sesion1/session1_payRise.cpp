@@ -13,6 +13,6 @@ int main() {
 
     final_salary = base_salary * 1.02;
 
-    cout << "Your final salary with a rise of 2 percent is: " << final_salary << "USD";
+    cout << "Your final salary with a rise of 2 percent is: " << final_salary << " USD";
     
 }
